@@ -1,2 +1,2 @@
 #!/bin/bash
-alias cmd1=' echo "hello $USER" '
+alias cmd1='echo "hello $USER'
